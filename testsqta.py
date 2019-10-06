@@ -36,7 +36,7 @@ def start(user_name, pass_word):
         date.send_keys('09/05/2019')
 
         address = br.find_element_by_name(" address")
-        address.send_keys('address bitch!!!!!')
+        address.send_keys('address!!!!!')
 
         city= br.find_element_by_name("city")
         city.send_keys("puneeeeeeeeeee")
